@@ -1,0 +1,2 @@
+module DuyuruHelper
+end
